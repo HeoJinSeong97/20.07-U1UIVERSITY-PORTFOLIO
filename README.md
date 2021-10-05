@@ -10,4 +10,6 @@ jsp를 배우면서 시작했고, css랑 js는 유튜브랑 블로그 찾아보�
 
 [DB연결소스](https://github.com/HeoJinSeong97/20.07-U1UIVERSITY-PORTFOLIO/blob/master/src/smartit/u1classm/DBUtill.java)
 
+나머지 파일들은 모두 한곳에 모여져있습니다.
+[JSP파일들](https://github.com/HeoJinSeong97/20.07-U1UIVERSITY-PORTFOLIO/tree/master/WebContent)
 
