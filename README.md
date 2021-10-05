@@ -6,7 +6,7 @@ jsp를 배우면서 시작했고, css랑 js는 유튜브랑 블로그 찾아보�
 해보고나니 코드가 많이 난잡해서 아쉬운 프로젝트 였습니다.
 이때 MVC나 스프링같은 개념을 잘 몰랐어서 파일들이 난잡합니다.
 
-UserVO 필드#https://github.com/HeoJinSeong97/20.07-U1UIVERSITY-PORTFOLIO/blob/master/src/smartit/u1classm/UIDSession.java
+UserVO 필드(#https://github.com/HeoJinSeong97/20.07-U1UIVERSITY-PORTFOLIO/blob/master/src/smartit/u1classm/UIDSession.java)
 DB연결소스#https://github.com/HeoJinSeong97/20.07-U1UIVERSITY-PORTFOLIO/blob/master/src/smartit/u1classm/DBUtill.java
 
 
